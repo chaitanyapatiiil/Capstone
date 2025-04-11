@@ -26,4 +26,7 @@ This project detects diseases in plant leaves using image classification with de
 - `requirements.txt`: Required libraries.
 - `model/`: Trained model files (if included).
 
-## 📷 Sample Predictions
+## 📷 
+
+![image](https://github.com/user-attachments/assets/5787ed82-8d3c-4f32-b6c2-65ec00cad1f6)
+
